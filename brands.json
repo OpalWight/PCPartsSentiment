@@ -1,0 +1,41 @@
+{
+  "cpu": [
+    "amd", "ryzen", "threadripper", "epyc",
+    "intel", "core", "xeon", "pentium", "celeron",
+    "i3", "i5", "i7", "i9"
+  ],
+  "gpu": [
+    "nvidia", "geforce", "rtx", "gtx", "titan", "quadro",
+    "amd", "radeon", "rx", "vega", "rdna", "navi",
+    "intel", "arc", "xe"
+  ],
+  "motherboard": [
+    "asus", "msi", "gigabyte", "asrock", "evga", "biostar",
+    "supermicro", "micro-star"
+  ],
+  "memory": [
+    "corsair", "g.skill", "gskill", "crucial", "kingston",
+    "teamgroup", "patriot", "adata", "hyperx", "ballistix",
+    "trident", "vengeance", "dominator", "ripjaws"
+  ],
+  "storage": [
+    "samsung", "western digital", "wd", "seagate", "crucial",
+    "intel", "adata", "kingston", "sandisk", "toshiba",
+    "corsair", "sabrent", "mushkin", "sk hynix"
+  ],
+  "psu": [
+    "corsair", "evga", "seasonic", "thermaltake", "cooler master",
+    "antec", "be quiet", "silverstone", "fractal design",
+    "super flower", "fsp", "rosewill"
+  ],
+  "case": [
+    "nzxt", "corsair", "fractal design", "cooler master",
+    "thermaltake", "antec", "silverstone", "phanteks",
+    "be quiet", "lian li", "meshify", "define"
+  ],
+  "cooling": [
+    "noctua", "corsair", "cooler master", "arctic",
+    "be quiet", "thermaltake", "deepcool", "scythe",
+    "cryorig", "aio", "dark rock", "nh-d15"
+  ]
+}
